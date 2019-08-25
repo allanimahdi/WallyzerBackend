@@ -1,0 +1,14 @@
+/Users/mac/Desktop/TableauxApi/TableauxApi/bin/Release/netcoreapp2.2/TableauxApi.deps.json
+/Users/mac/Desktop/TableauxApi/TableauxApi/bin/Release/netcoreapp2.2/TableauxApi.runtimeconfig.json
+/Users/mac/Desktop/TableauxApi/TableauxApi/bin/Release/netcoreapp2.2/TableauxApi.runtimeconfig.dev.json
+/Users/mac/Desktop/TableauxApi/TableauxApi/bin/Release/netcoreapp2.2/TableauxApi.dll
+/Users/mac/Desktop/TableauxApi/TableauxApi/bin/Release/netcoreapp2.2/TableauxApi.pdb
+/Users/mac/Desktop/TableauxApi/TableauxApi/obj/Release/netcoreapp2.2/TableauxApi.csprojAssemblyReference.cache
+/Users/mac/Desktop/TableauxApi/TableauxApi/obj/Release/netcoreapp2.2/TableauxApi.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/TableauxApi/TableauxApi/obj/Release/netcoreapp2.2/TableauxApi.RazorAssemblyInfo.cache
+/Users/mac/Desktop/TableauxApi/TableauxApi/obj/Release/netcoreapp2.2/TableauxApi.RazorAssemblyInfo.cs
+/Users/mac/Desktop/TableauxApi/TableauxApi/obj/Release/netcoreapp2.2/TableauxApi.AssemblyInfoInputs.cache
+/Users/mac/Desktop/TableauxApi/TableauxApi/obj/Release/netcoreapp2.2/TableauxApi.AssemblyInfo.cs
+/Users/mac/Desktop/TableauxApi/TableauxApi/obj/Release/netcoreapp2.2/TableauxApi.RazorTargetAssemblyInfo.cache
+/Users/mac/Desktop/TableauxApi/TableauxApi/obj/Release/netcoreapp2.2/TableauxApi.dll
+/Users/mac/Desktop/TableauxApi/TableauxApi/obj/Release/netcoreapp2.2/TableauxApi.pdb
