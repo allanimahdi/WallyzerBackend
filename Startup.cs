@@ -36,11 +36,12 @@ namespace TableauxApi
             {
 
                 options.AddPolicy("AllowOrigin",
-                builder => builder.WithOrigins("http://localhost:4200/cart"));
+                builder => builder.WithOrigins("http://wallyzer.com"));
                 options.AddPolicy(MyAllowSpecificOrigins,
                 builder =>
                 {
                     builder.WithOrigins("localhost:4200",
+                                        "http://wallyzer.com",
                                         "localhost:4200/cart")
                                         .AllowAnyHeader()
                             .AllowAnyMethod(); ;
@@ -69,7 +70,7 @@ namespace TableauxApi
                 app.UseHsts();
             }
             app.UseCors(builder =>
-    builder.WithOrigins("http://localhost:4200"));
+    builder.WithOrigins("http://wallyzer.com"));
             
             app.UseHttpsRedirection();
             app.UseCors(b => b.AllowAnyMethod().AllowAnyHeader().WithOrigins(origins));
