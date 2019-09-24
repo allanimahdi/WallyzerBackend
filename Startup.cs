@@ -24,7 +24,7 @@ namespace TableauxApi
             Configuration = configuration;
         }
         readonly string MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
-        string[] origins = new string[] { "http://localhost:4200" }; 
+        string[] origins = new string[] { "http://wallyzer.com" }; 
         public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
